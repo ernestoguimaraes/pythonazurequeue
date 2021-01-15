@@ -1,5 +1,7 @@
 # Python Queries Azure Storage Queues
 
+![](img/arch.png)
+
 This sample code shows how to interact with Azure Storage Queues on Python, using the https://pypi.org/project/azure-storage-queue package
 
 It implements the following features:
